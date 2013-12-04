@@ -1,0 +1,9 @@
+# os x files
+*.DS_Store
+
+# cert/key
+Tacos
+
+# binary
+bin/
+
