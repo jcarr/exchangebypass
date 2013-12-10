@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.flacid.tutorial"
-    android:versionCode="10"
-    android:versionName="1.5.5" >
+    package="org.flacid.exchangebypass"
+    android:versionCode="12"
+    android:versionName="1.5.5.5" >
 
     <uses-sdk
         android:minSdkVersion="16" android:targetSdkVersion="19"/>
